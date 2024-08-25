@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+/* #green{
+  box-shadow: 0px 0px 22px 1px rgba(40,202,144,0.75) inset;
+  -webkit-box-shadow: 0px 0px 22px 1px rgba(40,202,144,0.75) inset;
+  -moz-box-shadow: 0px 0px 22px 1px rgba(40,202,144,0.75) inset;} */
+
+#needle {
+  transition: transform 0.3s ease-in;
+}
